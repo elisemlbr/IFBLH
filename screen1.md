@@ -3,7 +3,7 @@
 
 ### *_Top menu_*
 ---
-- Recherche directe d'un utilisateur 
+- Barre de recherche directe d'un utilisateur 
 - Exploration par localisation 
 - " My profile " : configuration du profil personnel
 - " Friends " : liste complète des amis
