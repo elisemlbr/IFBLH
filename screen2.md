@@ -1,4 +1,4 @@
-# SnapWeather - Il fait beau là-haut
+# Il fait beau là-haut
 
 ## The Phone App you need 
 
