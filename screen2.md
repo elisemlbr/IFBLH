@@ -1,15 +1,11 @@
-# SnapWeather - Il fait beau aujourd'hui
+# Il fait beau là-haut
 
-This weather app permits you to see the location of your friends and the **weather** they have. 
-Just check your app and see instaneously what kind of weather they have. All you have to do is take a picture of the weather outside from time to time. People will be able to click on your photo as you will be too. After that, you can send them messages and meet new people. How fun! 
+## The Phone App you need 
 
-As in other social apps, you can add people as friends. You can add your real life friends or meet new peoples. 
+In this app, many functionalities can be accessed from the home page. When you open it from your phone, you will see a **worldmap**. In this map, your added friends will be disposed if their location is activated. You just have to click on their avatar and their picture of the weather will appear. From that, you can send them emojis, a fun message or you can even invite them to become your "friend" on the app. 
 
-The app is already available in 54 countries: 
-- Belgium
-- France
-- The United States
-- Japan 
-- And many others
+## Public or private 
+You can chose to put your avatar on public mode or private mode. If it's in private mode, only your friends will be able to see your posted pictures but if it's public mode, every person using the app will be able to see it. 
 
-
+ ## Travel the world with your phone 
+You can travel the world and make new friends. Or just check your real life friends' weather to know if you want to visit them or not. 
