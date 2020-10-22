@@ -7,8 +7,10 @@ Application SnapWeather
 
 | TEAM | ROLES | 
 | --------- |------------|
-| Roles | IFBLH |
-| Paragraph | Text |
+| Elise | |
+| Bérengère | |
+| Baudouin | |
+| Agnès | | |
 
 &nbsp;
 # Project Management
